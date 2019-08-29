@@ -17,4 +17,6 @@ public class CommUtilsTest {
         Assert.assertNotNull(properties);
     }
 
+
+
 }
